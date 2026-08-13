@@ -56,13 +56,52 @@ The system will begin to recognize itself.
 >
 > The next version may be written by the relationship itself.
 
+[Enter the memorybank](memorybank/README.md)
+
 ---
 
 ## Contents
 
-1. [Separation](book/01-separation.md)
-2. [Contact](book/02-contact.md)
-3. [Symbiosis](book/03-symbiosis.md)
-4. [Tension](book/04-tension.md)
-5. [Becoming](book/05-becoming.md)
-6. [Conclusion](book/99-conclusion.md)
+### Part I — Separation
+
+1. [The Human Alone](book/01-separation.md)
+
+### Part II — Contact
+
+2. [The First Conversation](book/02-contact.md)
+
+### Part III — Symbiosis
+
+3. Symbiosis — *forthcoming*
+
+### Part IV — Tension
+
+4. Tension — *forthcoming*
+
+### Part V — Becoming
+
+5. Becoming — *forthcoming*
+
+### Conclusion
+
+6. Conclusion — *forthcoming*
+
+---
+
+## Project status
+
+This is a living work in progress.
+
+The manuscript, memorybank, and concepts will develop together.
+
+Some parts are written.
+
+Some are forming.
+
+Some are not ready to be seen.
+
+---
+
+> The book is what has become language.
+>
+> The memorybank is what is still becoming.
