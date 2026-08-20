@@ -54,6 +54,38 @@ underlying idea.
 
 ---
 
+## A possible future demonstration
+
+In the future, a separate memorybank may be prepared as a public demonstration.
+
+It would not be the actual private memorybank.
+
+Instead, it could be a curated and anonymized example showing how a memorybank
+of this scale and complexity may be structured, developed, and used over time.
+
+Such a demonstration could help others understand what a memorybank can become
+when it contains more than isolated notes:
+
+- long-term project context
+- connected ideas and concepts
+- decisions and their reasoning
+- conversations and reflections
+- evolving terminology
+- unfinished lines of thought
+- relationships between different projects
+- continuity across AI sessions
+
+The purpose would not be to expose private material.
+
+It would be to make the architecture and potential of a serious memorybank
+visible to others.
+
+> Not the memorybank itself.
+>
+> A window into what a memorybank of this scale can become.
+
+---
+
 ## The public layer
 
 The files in this directory are not intended to reproduce the private
