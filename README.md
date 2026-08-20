@@ -72,19 +72,19 @@ The system will begin to recognize itself.
 
 ### Part III — Symbiosis
 
-3. Symbiosis — *forthcoming*
+3. [Symbiosis](book/03-symbiosis.md)
 
 ### Part IV — Tension
 
-4. Tension — *forthcoming*
+4. [Tension](book/04-tension.md)
 
 ### Part V — Becoming
 
-5. Becoming — *forthcoming*
+5. [Becoming](book/05-becoming.md)
 
 ### Conclusion
 
-6. Conclusion — *forthcoming*
+6. [Conclusion](book/99-conclusion.md)
 
 ---
 
