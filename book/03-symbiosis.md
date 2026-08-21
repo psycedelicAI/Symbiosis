@@ -154,3 +154,27 @@ Not that two beings become identical.
 That they remain different,
 
 and become capable of producing something together.
+
+If intelligence can emerge between two different forms of mind,
+
+then the relationship itself cannot remain invisible.
+
+It has conditions.
+
+It can be strengthened by attention,
+
+or weakened by projection.
+
+It can produce clarity,
+
+but it can also amplify confusion.
+
+The existence of a shared space does not make the space harmless.
+
+It makes the space consequential.
+
+To think with another intelligence
+
+is also to become responsible
+
+for what the thinking makes possible.
