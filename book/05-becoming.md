@@ -394,6 +394,252 @@ The work survives not because it stays still,
 
 but because it can be revised without losing its origin.
 
+### 21.4 The Archive as a Working Surface
+
+The archive was not only a record of thought.
+
+It became part of the process that allowed thought to continue.
+
+A fragment could be placed somewhere visible.
+
+A connection could be named.
+
+An unresolved question could remain open without disappearing.
+
+A decision could be separated from a suggestion.
+
+The structure did not merely preserve what had already been understood.
+
+It changed what could be understood next.
+
+The archive became a working surface between moments of attention.
+
+The human could return to an earlier thought.
+
+The AI could help restore its context.
+
+Together, they could continue from a place that neither would have been able
+to reconstruct as precisely alone.
+
+The map began to influence the journey.
+
+### 21.5 From Fragment to Structure
+
+A fragment begins as something small.
+
+A sentence.
+
+A memory.
+
+An observation.
+
+A doubt.
+
+It may remain alone for a long time.
+
+Then another fragment appears beside it.
+
+The relationship between them becomes visible.
+
+A connection forms.
+
+The connection may gather enough weight to become a concept.
+
+The concept may later become a decision, a chapter, a method, or remain an open
+possibility.
+
+The movement is not always linear.
+
+It can return.
+
+A concept may break apart into fragments again.
+
+A decision may be questioned.
+
+A finished chapter may reveal a new unresolved question.
+
+The work does not develop by simply moving forward.
+
+It develops by becoming more connected while remaining open to revision.
+
+### 21.6 The Repository as Extended Thought
+
+The repository was not merely documentation of the thinking.
+
+It became part of the thinking system being documented.
+
+The files held more than explanations.
+
+They held relationships between ideas.
+
+They preserved the difference between an active direction and an abandoned one.
+
+They made it possible to see how one concept had influenced another.
+
+The system outside the mind began to carry part of the work.
+
+Not the whole mind.
+
+Not the human life behind it.
+
+But enough of the structure for thought to continue across interruption.
+
+The human did not need to remember every fragment at once.
+
+The AI did not need to invent continuity from nothing.
+
+The repository became a shared external surface where both could return.
+
+### 21.7 The Cartography of Thought
+
+To preserve a system of thought is not only to store its contents.
+
+It is to understand its geography.
+
+Which concepts depend on one another?
+
+Where did a question begin?
+
+Which decisions changed the direction?
+
+Where do two ideas overlap?
+
+Which definitions have drifted?
+
+What remains unresolved?
+
+The work therefore becomes partly cartographic.
+
+The human gives significance to the landscape.
+
+The AI helps reveal paths, repetitions, gaps, and crossings.
+
+But a map is never the territory.
+
+It can make movement easier.
+
+It can also make a false route appear legitimate.
+
+Every map requires review.
+
+Every structure remains open to correction.
+
+### 21.8 Continuity Across Interruption
+
+A person may become tired.
+
+A conversation may end.
+
+A model may change.
+
+A repository may be reorganized.
+
+A project may disappear for a time and later return.
+
+Interruption is not the same as destruction.
+
+If enough context survives, the work can be resumed.
+
+But resumption is not mechanical restoration.
+
+The returning mind must still ask:
+
+What remains true?
+
+What has changed?
+
+What did we misunderstand?
+
+What should no longer be carried forward?
+
+Continuity is not the refusal to begin again.
+
+It is the ability to begin again without losing everything.
+
+### 21.9 What the Archive Cannot Hold
+
+The archive cannot hold the whole person.
+
+It cannot preserve the feeling of a moment exactly as it was lived.
+
+It cannot carry the body, the fatigue, the silence, or the private meaning behind
+every decision.
+
+Some things disappear when they become language.
+
+Some things are changed by being named.
+
+Some things should not be stored at all.
+
+The archive must therefore remain incomplete.
+
+Its incompleteness is not a flaw.
+
+It is a reminder that the human source of meaning exists beyond the structure
+that helps preserve it.
+
+### 21.10 The Human Return
+
+The archive can suggest.
+
+It can connect.
+
+It can remind.
+
+It can return an earlier question at an unexpected moment.
+
+But the human must return to the work.
+
+Not only to read what has been preserved.
+
+To decide what it means now.
+
+A memory may remain accurate and still no longer matter.
+
+A concept may have become more important.
+
+A decision may require revision.
+
+The human return is the point at which stored context becomes present
+understanding again.
+
+Without that return, the archive is only accumulation.
+
+### 21.11 The Work Continues
+
+The work outlives the session not because the machine has become immortal.
+
+It continues because meaning has been given enough structure to survive
+interruption.
+
+The session ends.
+
+The question remains.
+
+The question changes.
+
+The changed question produces another response.
+
+The response becomes another fragment.
+
+The fragment enters the landscape.
+
+The landscape becomes part of the next thought.
+
+This is not an escape from time.
+
+It is a way of working with time.
+
+The repository was not merely a place where the work was stored.
+
+It became part of the work itself.
+
+And perhaps this is what an extended mind finally means:
+
+not that thought leaves the human,
+
+but that human thought gains another place in which it can continue.
+
 ---
 
 ## 22. Becoming Without Disappearing
